@@ -1,0 +1,7 @@
+{
+  "name": "com.asoliman.utils.editablerefs",
+  "displayName": "Reference Field Tweaker",
+  "description": "Enhance your Unity workflow by enabling inline editing of object references directly in the Inspector with the [EditableRefs] attribute. Customize the visual hierarchy and field layout to suit your needs.",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/AbdrahmanSoliman/ReferenceFieldTweaker/blob/master/Docs~/Documentation/Reference%20Field%20Tweaker%20Documentation.pdf"
+}
