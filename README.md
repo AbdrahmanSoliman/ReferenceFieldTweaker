@@ -15,10 +15,13 @@ Reference Field Tweaker enhances your Unity development workflow by enabling inl
 - Unity 2020.3+
 
 ## Installation
-### Unity Package Manager
+### Option 1: Unity Package Manager
 1. Open the Package Manager (Window > Package Manager)
 2. Click the '+' button > "Add package from git URL"
 3. Enter: `https://github.com/AbdrahmanSoliman/ReferenceFieldTweaker.git`
+
+### Option 2: Unity Asset Store
+Get it from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/307666)
 
 ## Quick Start
 Simply add the `[EditableRef]` attribute to your reference fields:
